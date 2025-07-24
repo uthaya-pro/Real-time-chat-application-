@@ -112,6 +112,6 @@ task-2-chat-app/
 
 ## 📷 Screenshots
 
-> 📌 Add your output screenshot here for GitHub preview
+> 📌 ![Image](https://github.com/user-attachments/assets/b7483751-6fb9-43a8-83c1-02b4353a2a19)
 
 ---
